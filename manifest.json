@@ -31,6 +31,8 @@
     ],
     "host_permissions": [
         "http://www.youtube.com/watch*",
-        "https://www.youtube.com/watch*"
+        "https://www.youtube.com/watch*",
+        "http://www.youtube.com/shorts*",
+        "https://www.youtube.com/shorts*"
     ]
 }
