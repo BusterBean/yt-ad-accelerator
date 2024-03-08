@@ -83,7 +83,7 @@ function adVideoManipulation() {
         // set params
         adElement.volume = 0;
         adElement.muted = true;
-        adElement.playbackRate = 16; // max video playback speed
+        adElement.playbackRate = 420; // max video playback speed
         // console.info("ad video manipulation successful");
         return true;
     } catch (err) {
